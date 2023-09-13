@@ -1,4 +1,5 @@
 void main(){
   String name ='Str';
-  print(name);
+  int age =21;
+  print("My name is $name and my age is $age");
 }
